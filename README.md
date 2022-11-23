@@ -1,3 +1,2 @@
 # PC lab
- Hola soy un pequeño juego educativo
- 
+ I wanna bum bam bam wichubaiou

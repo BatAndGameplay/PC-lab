@@ -1,0 +1,68 @@
+{
+	"name": "Ventiladores",
+	"plugin-id": "Sprite",
+	"sid": 460741339613324,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "DragnDrop",
+			"name": "ArrastrarYSoltar",
+			"sid": 369345036932658
+		},
+		{
+			"behaviorId": "Pin",
+			"name": "Pegado",
+			"sid": 154621392229616
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1022,
+						"height": 1080,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4377887,
+						"collisionPoly": {
+							"points": [
+								0.05283757338551859,
+								0.05,
+								0.5,
+								0.006481481481481481,
+								0.9373776908023483,
+								0.058333333333333334,
+								0.9344422700587084,
+								0.5,
+								0.9334637964774951,
+								0.937037037037037,
+								0.5,
+								0.9518518518518518,
+								0.10273972602739725,
+								0.9018518518518519,
+								0.043052837573385516,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 547348234309427,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
