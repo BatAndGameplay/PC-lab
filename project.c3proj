@@ -1,0 +1,256 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 31702,
+	"name": "Proyecto informática- Diego Gutiérrez",
+	"runtime": "c3",
+	"useWorker": "auto",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Texto",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TextBox",
+			"name": "Entrada de texto",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "DragnDrop",
+			"name": "Arrastrar y soltar",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Pin",
+			"name": "Pegado",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "effect",
+			"id": "noise",
+			"name": "Ruido",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		}
+	],
+	"uniqueId": "w8qxm52dgw4",
+	"objectTypes": {
+		"items": [
+			"ATX_Case",
+			"CPU",
+			"Ventiladores",
+			"Sprite3",
+			"PlacaBase",
+			"Sprite5",
+			"Sprite6",
+			"Texto",
+			"EntradaDeTexto2",
+			"EntradaDeTexto3",
+			"EntradaDeTexto4",
+			"EntradaDeTexto5",
+			"EntradaDeTexto6",
+			"EntradaDeTexto7",
+			"Texto2",
+			"TextoAciertos",
+			"Sprite",
+			"Sprite2",
+			"Sprite4",
+			"Sprite7",
+			"Sprite8",
+			"Sprite9"
+		],
+		"subfolders": []
+	},
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"Escena 1"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"Hoja de eventos 1"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [],
+			"subfolders": []
+		},
+		"sound": {
+			"items": [],
+			"subfolders": []
+		},
+		"music": {
+			"items": [],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "icono-16.png",
+					"type": "image/png",
+					"sid": 712157013751204,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-32.png",
+					"type": "image/png",
+					"sid": 783162253322757,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-64.png",
+					"type": "image/png",
+					"sid": 718985144472090,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-128.png",
+					"type": "image/png",
+					"sid": 415057388126328,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-256.png",
+					"type": "image/png",
+					"sid": 155698975690262,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-512.png",
+					"type": "image/png",
+					"sid": 698389292251673,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "logo-carga.png",
+					"type": "image/png",
+					"sid": 353045602701325,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [
+			"Línea de tiempo 1"
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"properties": {
+		"description": "",
+		"version": "1.0.0.0",
+		"author": "",
+		"authorEmail": "",
+		"authorWebsite": "",
+		"appId": "",
+		"pixelRounding": false,
+		"zAxisScale": "normalized",
+		"fov": 0.7853981633974483,
+		"useLoaderLayout": false,
+		"fullscreenMode": "letterbox-scale",
+		"fullscreenQuality": "high",
+		"viewportFit": "auto",
+		"backgroundColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "landscape",
+		"webgpu": "auto",
+		"gpuPreference": "high-performance",
+		"scriptsType": "module",
+		"framerateMode": "vsync",
+		"compositingMode": "standard",
+		"sampling": "trilinear",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "splash",
+		"preloadSounds": true,
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https",
+		"autoReloadScriptsOnPreview": false,
+		"exportFileStructure": "folders"
+	},
+	"viewportWidth": 854,
+	"viewportHeight": 480,
+	"firstLayout": null
+}
