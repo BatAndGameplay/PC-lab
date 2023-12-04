@@ -1,2 +1,2 @@
-# PC lab
- I wanna bum bam bam wichubaiou
+# Juego Diego infor
+ Juego para infromática 2023
